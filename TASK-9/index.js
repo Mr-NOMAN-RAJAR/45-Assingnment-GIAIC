@@ -1,5 +1,0 @@
-"use strict";
-// 9. Favorite Number: Store your favorite number in a variable. Then, using that variable, create a message that reveals your favorite number. Print that message.
-Object.defineProperty(exports, "__esModule", { value: true });
-let favnum = 1;
-console.log(`This is a my favorite Number "${favnum}" `);
